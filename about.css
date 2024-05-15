@@ -16,18 +16,6 @@ body {
 
 
 
-.nav  {
-  display: flex;
- 
-    background-color:orange;
-  position: relative;
-  width: 100vw;
-  left: 0;
-  top: 0;
-  z-index: 11;
- 
-  opacity: 1;
-}
 .close {
   z-index: 34;
 
