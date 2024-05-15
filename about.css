@@ -25,26 +25,6 @@ body {
 .close:active {
   color: red;
 }
-.nav-link {
-  list-style: none;
-  margin: 20px;
-  border-top: 3px solid white;
-  width: 80%;
-  text-align: center;
-
-  padding-top: 10px;
-}
-.nav-link a {
-  text-decoration: none;
-  padding-top: 10px;
-  color: white;
-  font-weight: 900;
-}
-.nav-link a:hover {
-  color: rgb(240, 197, 6);
-}
-/* Main content */
-
 
 .head {
   text-align: center;
