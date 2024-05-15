@@ -25,10 +25,9 @@ body {
 .nav  {
   display: flex;
   flex-direction: column;
-  position: absolute;
+  position: relative;
   width: 100vw;
   height: 100vh;
-  background-color: black;
   left: 0;
   top: 0;
   z-index: 11;
